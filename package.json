@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^17.11.0",
-    "@types/yargs": "^16.0.2",
+    "@types/yargs": "^17.0.2",
     "hard-rejection": "^2.1.0",
     "moment": "^2.29.1",
     "yargs": "^15.4.1"
