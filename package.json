@@ -35,7 +35,7 @@
     "@pollyjs/persister-fs": "^5.1.1",
     "@sinonjs/fake-timers": "^7.1.2",
     "@tracerbench/har": "^6.1.0",
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^26.0.24",
     "@types/pollyjs__adapter-node-http": "^2.0.1",
     "@types/pollyjs__core": "^4.3.2",
     "@types/pollyjs__persister-fs": "^2.0.1",
